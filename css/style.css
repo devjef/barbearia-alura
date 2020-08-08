@@ -30,6 +30,7 @@ nav a {
 
 nav a:hover {
     color: #C78C19;
+    border-bottom: 2px solid #C78C19;
 }
 
 .titulo-principal {
@@ -89,6 +90,10 @@ footer {
     text-align: center;
     background: url("../img/bg.jpg");
     padding: 40px 0;
+}
+
+footer p {
+    text-align: center;
 }
 
 .copyright {
